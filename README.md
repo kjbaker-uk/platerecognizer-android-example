@@ -52,7 +52,7 @@
 
 
 
-This is a new and updated example Android application to demonstrate how to integrate Plate Recognizer API within your Android apps. This has been written from the ground up in Kotlin in a simple fragment-based app. It has been designed to allow you to extend the functionality in any way you need to. This project was made with the permission of the awesome people at Plate Recognizer to offer it freely to their customers. A free API was provided for development.
+This is a new and updated example Android application to demonstrate how to integrate Plate Recognizer API within your Android apps. This has been written from the ground up in Kotlin in a simple fragment-based app. It has been designed to allow you to extend the functionality in any way you need to. This project was made with the permission of the awesome people at Plate Recognizer to offer it freely to their customers. A free API key was provided for development.
 
 Features
 - [X] Requires only the essential runtime permissions. 😁👍👌
