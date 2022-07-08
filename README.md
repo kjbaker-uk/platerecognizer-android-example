@@ -85,7 +85,7 @@ Features
 
 <img src="images/api_token.png" alt="Screenshot UI" width="400" height="75">
 
-6. Run on a Android 11 device upwards.
+5. Run on a Android 11 device upwards.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
