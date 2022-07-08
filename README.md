@@ -81,7 +81,7 @@ Features
    ```
 3. Open in Android Studio.
 4. Get a Snapshot Cloud API key from https://platerecognizer.com/
-5. Edit "AnprFragment" file and add your api key.
+5. Edit "AnprFragment" file and add your API key.
 
 <img src="images/api_token.png" alt="Screenshot UI" width="400" height="75">
 
