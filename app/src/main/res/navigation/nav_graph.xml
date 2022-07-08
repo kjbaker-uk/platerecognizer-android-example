@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/anpr_fragment">
+
+    <fragment
+        android:id="@+id/anpr_fragment"
+        android:name="com.ais.plate_req_api.fragment.AnprFragment"
+        android:label="ANPR Capture"
+        tools:layout="@layout/fragment_anpr" />
+</navigation>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">plate_req</string>
+
+    <string name="menu_group">Settings</string>
+    <string name="menu_anpr">Anpr</string>
+    <string name="menu_activity">Activity</string>
+    <string name="instructions">Take an image of a vehicles plate to see results</string>
+
+    // Menu Buttons
+    <string name="openurl_btn">API Docs</string>
+    <string name="exit_btn">Exit</string>
+
+    // Developer Details
+    <string name="app_details">Android API Example v1.0</string>
+    <string name="copyright">Created by Keith Baker in collaboration with Plate Recognizer</string>
+</resources>
